@@ -1,0 +1,69 @@
+[
+  {
+    "email": "admin@gmail.com",
+    "password": "123"
+  },
+  {
+    "name": "Дмитро Остапчук",
+    "email": "sonenkosasa4@gmail.com",
+    "studentID": "1221",
+    "phone": "+380971422372",
+    "password": "121"
+  },
+  {
+    "name": "Дмитро Остапчук",
+    "email": "samsonenkosasa@gmail.com",
+    "studentID": "009",
+    "phone": "+380971422372",
+    "password": "123"
+  },
+  {
+    "name": "Дмитро Остапчук",
+    "email": "samsonenkosa@gmail.com",
+    "studentID": "12212",
+    "phone": "+380971422372",
+    "password": "123"
+  },
+  {
+    "name": "Дмитро Остапчук",
+    "email": "samsonenkos@gmail.com",
+    "studentID": "8888",
+    "phone": "+380971422372",
+    "password": "123"
+  },
+  {
+    "name": "Test Name",
+    "email": "samsonenkosasa4@gmail.com",
+    "studentID": "1234",
+    "phone": "+380",
+    "password": "666"
+  },
+  {
+    "name": "Дмитро Остапчук",
+    "email": "samsonenkosasa4@gmail.com",
+    "studentID": "9999",
+    "phone": "+380971422372",
+    "password": "123"
+  },
+  {
+    "name": "Дмитро Остапчук",
+    "email": "samsonenkosasa4@gmail.com",
+    "studentID": "1221",
+    "phone": "+380971422372",
+    "password": "123"
+  },
+  {
+    "name": "Дмитро Остапчук",
+    "email": "samsonenkosasa4@gmail.com",
+    "studentID": "1221",
+    "phone": "+380971422372",
+    "password": "111"
+  },
+  {
+    "name": "Дмитро Остапчук",
+    "email": "samsonenkosa4@gmail.com",
+    "studentID": "1222",
+    "phone": "+380971422372",
+    "password": "123"
+  }
+]
