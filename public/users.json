@@ -1,0 +1,14 @@
+[
+    {
+      "email": "admin@gmail.com",
+      "password": "123",
+      "name":"Maksim"
+    },
+    {
+      "name": "Дмитро Остапчук",
+      "email": "samsonenkosasa4@gmail.com",
+      "studentID": "1221",
+      "phone": "+380971422372",
+      "password": "123321"
+    }
+]
